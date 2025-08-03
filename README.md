@@ -99,7 +99,7 @@ This repository contains a collection of **embedded firmware projects** develope
 **Arpan Mukherjee**  
 *B.Tech | Embedded Systems & Power Electronics*  
 Intern @ [Your Organization Name]  
-[LinkedIn](https://www.linkedin.com/) • [Email](mailto:your-email@example.com)
+[LinkedIn](https://www.linkedin.com/in/arpan-mukherjee-2aa657254/) • [Email](mailto:arpanmukherjee3110@gmail.com)
 
 ---
 
